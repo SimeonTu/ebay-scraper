@@ -20,7 +20,7 @@ This Python program scrapes eBay listings based on user-provided search criteria
 
 Install the required libraries using pip:
 ```
-pip install requests beautifulsoup4
+pip install -r requirements.txt
 ```
 
 ## Usage
@@ -40,5 +40,5 @@ python ebay_scraper.py [keywords] --min_price [value] --max_price [value] --cond
 
 Run the program without arguments to input parameters interactively:
 ```
-python ebay_scraper.py
+python ebayScraper.py
 ```
