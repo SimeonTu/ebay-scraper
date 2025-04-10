@@ -2,6 +2,8 @@
 
 This Python program scrapes eBay listings based on user-provided search criteria and calculates price statistics such as the mean, median, lowest, and highest prices of matching items. 
 
+![eBay Scraper preview](https://media.licdn.com/dms/image/v2/D4E22AQGGc5Qh5ovFbg/feedshare-shrink_2048_1536/B4EZSVoQCCGwAw-/0/1737677144772?e=1747267200&v=beta&t=B0c1Xe_cnAVR-_NHHd4BuZ6qS8Vyd5R-Xni0ezJ8R_Q)
+
 ## Features
 **Customisable Search** - Search eBay listings using keywords, price range, item condition (new, used, refurbished, or any), and number of pages to scrape.
 
